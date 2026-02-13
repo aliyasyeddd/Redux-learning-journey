@@ -1,0 +1,25 @@
+{
+  "name": "react-reduxtoolkit",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/aliyasyeddd/React-ReduxToolkit#readme",
+  "bugs": {
+    "url": "https://github.com/aliyasyeddd/React-ReduxToolkit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliyasyeddd/React-ReduxToolkit.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.11.2",
+    "axios": "^1.13.2",
+    "redux-logger": "^3.0.6"
+  }
+}
